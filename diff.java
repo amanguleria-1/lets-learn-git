@@ -1,8 +1,8 @@
-public class sum
+public class diff
 {
 
     public static void main (string args[])
-   { int a=4;
-    int b=3;
+   { int a=9;
+    int b=2;
     System.out.println("the diff is "+(a-b));
 }}
